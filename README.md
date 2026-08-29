@@ -93,6 +93,8 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Video decoding and playback*
 
+* [go-avebi](https://github.com/bstkhq/go-avebi) - Video and live-stream playback for Ebitengine, powered by FFmpeg.
+* [go-ffmpeg-ffi](https://github.com/bstkhq/go-ffmpeg-ffi) - Cross-platform Go bindings for dynamically loaded FFmpeg libraries, built with PureGo.
 * [reisen](https://github.com/zergon321/reisen) - A simple library to extract video and audio frames from media containers (based on libav).
 * [mpeg](https://github.com/gen2brain/mpeg) - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 
